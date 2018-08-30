@@ -18,11 +18,6 @@ Aeon is a single mobile application that displays a set of albums for purchase.
 	Button. Card, Header, CardSection
 
 
-# Features 
-![alt text](https://www.shareicon.net/download/2016/07/08/117548_google.ico "")
-
- - User Management(Authentication) - FirebaseAuth
-
 # Preview
 
   
